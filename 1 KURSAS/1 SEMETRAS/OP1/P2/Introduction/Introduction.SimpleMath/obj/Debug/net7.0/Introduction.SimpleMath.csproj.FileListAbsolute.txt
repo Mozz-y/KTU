@@ -1,0 +1,15 @@
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/bin/Debug/net7.0/Introduction.SimpleMath
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/bin/Debug/net7.0/Introduction.SimpleMath.deps.json
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/bin/Debug/net7.0/Introduction.SimpleMath.runtimeconfig.json
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/bin/Debug/net7.0/Introduction.SimpleMath.dll
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/bin/Debug/net7.0/Introduction.SimpleMath.pdb
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/Introduction.SimpleMath.csproj.AssemblyReference.cache
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/Introduction.SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/Introduction.SimpleMath.AssemblyInfoInputs.cache
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/Introduction.SimpleMath.AssemblyInfo.cs
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/Introduction.SimpleMath.csproj.CoreCompileInputs.cache
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/Introduction.SimpleMath.dll
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/refint/Introduction.SimpleMath.dll
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/Introduction.SimpleMath.pdb
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/Introduction.SimpleMath.genruntimeconfig.cache
+/home/mozzy/Desktop/Introduction/Introduction.SimpleMath/obj/Debug/net7.0/ref/Introduction.SimpleMath.dll

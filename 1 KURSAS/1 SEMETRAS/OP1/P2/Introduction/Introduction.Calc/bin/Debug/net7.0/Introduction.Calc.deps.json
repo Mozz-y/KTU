@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Introduction.Calc/1.0.0": {
+        "runtime": {
+          "Introduction.Calc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introduction.Calc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

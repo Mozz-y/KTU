@@ -1,0 +1,15 @@
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/bin/Debug/net7.0/Introduction.Greeting
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/bin/Debug/net7.0/Introduction.Greeting.deps.json
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/bin/Debug/net7.0/Introduction.Greeting.runtimeconfig.json
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/bin/Debug/net7.0/Introduction.Greeting.dll
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/bin/Debug/net7.0/Introduction.Greeting.pdb
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/Introduction.Greeting.csproj.AssemblyReference.cache
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/Introduction.Greeting.GeneratedMSBuildEditorConfig.editorconfig
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/Introduction.Greeting.AssemblyInfoInputs.cache
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/Introduction.Greeting.AssemblyInfo.cs
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/Introduction.Greeting.csproj.CoreCompileInputs.cache
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/Introduction.Greeting.dll
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/refint/Introduction.Greeting.dll
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/Introduction.Greeting.pdb
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/Introduction.Greeting.genruntimeconfig.cache
+/home/mozzy/Desktop/Introduction/Introduction.Greeting/obj/Debug/net7.0/ref/Introduction.Greeting.dll
