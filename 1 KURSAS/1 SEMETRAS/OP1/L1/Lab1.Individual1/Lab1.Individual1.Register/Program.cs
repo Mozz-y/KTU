@@ -7,7 +7,7 @@ namespace Lab1.Individual1.Register
     {
         static void Main(string[] args)
         {
-            // To print euro symbol
+            // Print euro symbol
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             // Read data from the CSV file
