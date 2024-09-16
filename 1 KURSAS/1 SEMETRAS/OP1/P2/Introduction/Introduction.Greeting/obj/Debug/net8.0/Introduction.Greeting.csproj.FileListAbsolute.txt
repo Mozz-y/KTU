@@ -1,0 +1,14 @@
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\bin\Debug\net8.0\Introduction.Greeting.exe
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\bin\Debug\net8.0\Introduction.Greeting.deps.json
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\bin\Debug\net8.0\Introduction.Greeting.runtimeconfig.json
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\bin\Debug\net8.0\Introduction.Greeting.dll
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\bin\Debug\net8.0\Introduction.Greeting.pdb
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\Introduction.Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\Introduction.Greeting.AssemblyInfoInputs.cache
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\Introduction.Greeting.AssemblyInfo.cs
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\Introduction.Greeting.csproj.CoreCompileInputs.cache
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\Introduction.Greeting.dll
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\refint\Introduction.Greeting.dll
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\Introduction.Greeting.pdb
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\Introduction.Greeting.genruntimeconfig.cache
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Greeting\obj\Debug\net8.0\ref\Introduction.Greeting.dll

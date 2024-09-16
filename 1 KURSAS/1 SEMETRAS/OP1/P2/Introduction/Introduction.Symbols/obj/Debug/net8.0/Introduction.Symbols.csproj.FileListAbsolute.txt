@@ -1,0 +1,14 @@
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\bin\Debug\net8.0\Introduction.Symbols.exe
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\bin\Debug\net8.0\Introduction.Symbols.deps.json
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\bin\Debug\net8.0\Introduction.Symbols.runtimeconfig.json
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\bin\Debug\net8.0\Introduction.Symbols.dll
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\bin\Debug\net8.0\Introduction.Symbols.pdb
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\Introduction.Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\Introduction.Symbols.AssemblyInfoInputs.cache
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\Introduction.Symbols.AssemblyInfo.cs
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\Introduction.Symbols.csproj.CoreCompileInputs.cache
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\Introduction.Symbols.dll
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\refint\Introduction.Symbols.dll
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\Introduction.Symbols.pdb
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\Introduction.Symbols.genruntimeconfig.cache
+C:\Users\Mozzy\Desktop\Introduction\Introduction.Symbols\obj\Debug\net8.0\ref\Introduction.Symbols.dll
