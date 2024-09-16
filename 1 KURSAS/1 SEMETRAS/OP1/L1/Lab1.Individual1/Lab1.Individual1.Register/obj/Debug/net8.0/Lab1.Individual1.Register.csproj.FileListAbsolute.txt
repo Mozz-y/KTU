@@ -1,0 +1,14 @@
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\bin\Debug\net8.0\Lab1.Individual1.Register.exe
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\bin\Debug\net8.0\Lab1.Individual1.Register.deps.json
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\bin\Debug\net8.0\Lab1.Individual1.Register.runtimeconfig.json
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\bin\Debug\net8.0\Lab1.Individual1.Register.dll
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\bin\Debug\net8.0\Lab1.Individual1.Register.pdb
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\Lab1.Individual1.Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\Lab1.Individual1.Register.AssemblyInfoInputs.cache
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\Lab1.Individual1.Register.AssemblyInfo.cs
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\Lab1.Individual1.Register.csproj.CoreCompileInputs.cache
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\Lab1.Individual1.Register.dll
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\refint\Lab1.Individual1.Register.dll
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\Lab1.Individual1.Register.pdb
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\Lab1.Individual1.Register.genruntimeconfig.cache
+C:\Users\Mozzy\Desktop\Lab1.Individual1\Lab1.Individual1.Register\obj\Debug\net8.0\ref\Lab1.Individual1.Register.dll
