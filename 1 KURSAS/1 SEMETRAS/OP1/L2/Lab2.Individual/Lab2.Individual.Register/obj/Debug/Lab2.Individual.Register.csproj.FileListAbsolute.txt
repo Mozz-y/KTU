@@ -1,0 +1,7 @@
+C:\Users\Mozzy\Desktop\Lab2.Individual\Lab2.Individual\Lab2.Individual.Register\bin\Debug\Lab2.Individual.Register.exe.config
+C:\Users\Mozzy\Desktop\Lab2.Individual\Lab2.Individual\Lab2.Individual.Register\bin\Debug\Lab2.Individual.Register.exe
+C:\Users\Mozzy\Desktop\Lab2.Individual\Lab2.Individual\Lab2.Individual.Register\bin\Debug\Lab2.Individual.Register.pdb
+C:\Users\Mozzy\Desktop\Lab2.Individual\Lab2.Individual\Lab2.Individual.Register\obj\Debug\Lab2.Individual.Register.csproj.AssemblyReference.cache
+C:\Users\Mozzy\Desktop\Lab2.Individual\Lab2.Individual\Lab2.Individual.Register\obj\Debug\Lab2.Individual.Register.csproj.CoreCompileInputs.cache
+C:\Users\Mozzy\Desktop\Lab2.Individual\Lab2.Individual\Lab2.Individual.Register\obj\Debug\Lab2.Individual.Register.exe
+C:\Users\Mozzy\Desktop\Lab2.Individual\Lab2.Individual\Lab2.Individual.Register\obj\Debug\Lab2.Individual.Register.pdb
