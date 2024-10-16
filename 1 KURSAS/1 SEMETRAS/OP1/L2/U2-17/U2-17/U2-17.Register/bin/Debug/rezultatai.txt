@@ -1,0 +1,61 @@
+﻿Organizacija: Org1
+Tema: Tema1
+Sunkumas: I
+Autorius: Autorius1
+Klausimas: Klausimas1
+Atsakymai: Atsakymas1_1, Atsakymas1_2, Atsakymas1_3, Atsakymas1_4
+Teisingas atsakymas: Atsakymas1_1
+Taškai: 3
+
+
+Organizacija: Org1
+Tema: Tema1
+Sunkumas: III
+Autorius: Autorius1
+Klausimas: Klausimas2
+Atsakymai: Atsakymas2_1, Atsakymas2_2, Atsakymas2_3, Atsakymas2_4
+Teisingas atsakymas: Atsakymas2_2
+Taškai: 5
+
+
+Organizacija: Org1
+Tema: Tema3
+Sunkumas: III
+Autorius: Autorius3
+Klausimas: Klausimas3
+Atsakymai: Atsakymas3_1, Atsakymas3_2, Atsakymas3_3, Atsakymas3_4
+Teisingas atsakymas: Atsakymas3_4
+Taškai: 10
+
+
+
+Organizacija: Org2
+Tema: TemaA
+Sunkumas: I
+Autorius: AutoriusA
+Klausimas: KlausimasA
+Atsakymai: AtsakymasA_1, AtsakymasA_2, AtsakymasA_3, AtsakymasA_4
+Teisingas atsakymas: AtsakymasA_3
+Taškai: 3
+
+
+Organizacija: Org2
+Tema: TemaB
+Sunkumas: II
+Autorius: AutoriusA
+Klausimas: KlausimasB
+Atsakymai: AtsakymasB_1, AtsakymasB_2, AtsakymasB_3, AtsakymasB_4
+Teisingas atsakymas: AtsakymasB_1
+Taškai: 5
+
+
+Organizacija: Org2
+Tema: TemaC
+Sunkumas: III
+Autorius: AutoriusA
+Klausimas: KlausimasC
+Atsakymai: AtsakymasC_1, AtsakymasC_2, AtsakymasC_3, AtsakymasC_4
+Teisingas atsakymas: AtsakymasC_2
+Taškai: 10
+
+
