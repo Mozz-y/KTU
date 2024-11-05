@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, serif;
+    color: navy;
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+	color: black;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.content {
+    width: 600px;
+    background-color: #99ff99;
+    padding: 20px;
+    border: 1px dashed black;
+    text-align: left;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 10px;
+	text-align: center
+}
+
+p {
+    color: navy;
+    font-size: 16px;
+    font-family: Georgia, serif;
+    margin-bottom: 20px;
+}
+
+.highlight {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    width: auto;
+    height: 100px;
+    border: 1px solid black;
+    opacity: 0.5;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+hr {
+    width: 300px;
+    border: none;
+    border-top: 3px dashed blue;
+    margin: 15px auto;
+}
+
+.columns {
+    display: flex;
+    gap: 20px;
+}
+
+.columns p {
+    flex: 1;
+}
+
+.generator-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.generator-link a {
+    color: black;
+    text-decoration: underline;
+}
+
+.generator-link a:hover {
+    color: white;
+    text-decoration: none;
+}
