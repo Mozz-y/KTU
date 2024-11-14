@@ -1,0 +1,7 @@
+C:\Users\dovlen1\Desktop\Lab4.Exercises\Lab3.Exercises\4.2\bin\Debug\4.2.exe.config
+C:\Users\dovlen1\Desktop\Lab4.Exercises\Lab3.Exercises\4.2\bin\Debug\4.2.exe
+C:\Users\dovlen1\Desktop\Lab4.Exercises\Lab3.Exercises\4.2\bin\Debug\4.2.pdb
+C:\Users\dovlen1\Desktop\Lab4.Exercises\Lab3.Exercises\4.2\obj\Debug\4.2.csproj.AssemblyReference.cache
+C:\Users\dovlen1\Desktop\Lab4.Exercises\Lab3.Exercises\4.2\obj\Debug\4.2.csproj.CoreCompileInputs.cache
+C:\Users\dovlen1\Desktop\Lab4.Exercises\Lab3.Exercises\4.2\obj\Debug\4.2.exe
+C:\Users\dovlen1\Desktop\Lab4.Exercises\Lab3.Exercises\4.2\obj\Debug\4.2.pdb
