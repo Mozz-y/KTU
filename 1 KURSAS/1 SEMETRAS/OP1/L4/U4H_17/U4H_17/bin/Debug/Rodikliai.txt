@@ -1,0 +1,35 @@
+﻿Žodis              Kiekis
+--------------------------
+ir                  2
+bet                 1
+istorijos           1
+ji                  1
+kartais             1
+kiekviena           1
+knyga               1
+knygas              1
+knygos              1
+labai               1
+literatūrą          1
+man                 1
+mažiau              1
+mokslinę            1
+mėgstu              1
+patinka             1
+savitą              1
+skaitau             1
+skaityti            1
+turi                1
+unikalią            1
+ypač                1
+įdomi               1
+žavesį              1
+žinią               1
+
+Ilgiausia sakinys iš Knyga1:
+Sakinys: 
+Žodžių kiekis: 0, Simbolių kiekis: 0, Eilutė: 0
+
+Ilgiausia sakinys iš Knyga2:
+Sakinys: Kartais skaitau ir mokslinę literatūrą, bet ji man mažiau įdomi.
+Žodžių kiekis: 10, Simbolių kiekis: 64, Eilutė: 2

@@ -1,0 +1,7 @@
+C:\Users\Mozzy\Desktop\U4H-17\U4H_17\U4H_17\bin\Debug\U4H_17.exe.config
+C:\Users\Mozzy\Desktop\U4H-17\U4H_17\U4H_17\bin\Debug\U4H_17.exe
+C:\Users\Mozzy\Desktop\U4H-17\U4H_17\U4H_17\bin\Debug\U4H_17.pdb
+C:\Users\Mozzy\Desktop\U4H-17\U4H_17\U4H_17\obj\Debug\U4H_17.csproj.AssemblyReference.cache
+C:\Users\Mozzy\Desktop\U4H-17\U4H_17\U4H_17\obj\Debug\U4H_17.csproj.CoreCompileInputs.cache
+C:\Users\Mozzy\Desktop\U4H-17\U4H_17\U4H_17\obj\Debug\U4H_17.exe
+C:\Users\Mozzy\Desktop\U4H-17\U4H_17\U4H_17\obj\Debug\U4H_17.pdb
