@@ -1,0 +1,14 @@
+C:\Users\Mozzy\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+C:\Users\Mozzy\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+C:\Users\Mozzy\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+C:\Users\Mozzy\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csproj.AssemblyReference.cache
+C:\Users\Mozzy\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\Mozzy\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+C:\Users\Mozzy\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb
+C:\Users\dovlen1\Desktop\Lab5.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+C:\Users\dovlen1\Desktop\Lab5.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+C:\Users\dovlen1\Desktop\Lab5.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+C:\Users\dovlen1\Desktop\Lab5.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csproj.AssemblyReference.cache
+C:\Users\dovlen1\Desktop\Lab5.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\dovlen1\Desktop\Lab5.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+C:\Users\dovlen1\Desktop\Lab5.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb
