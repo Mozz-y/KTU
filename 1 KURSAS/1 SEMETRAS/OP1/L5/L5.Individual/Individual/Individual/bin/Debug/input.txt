@@ -1,0 +1,6 @@
+TEAM;Tigers;Los Angeles;Coach A;25
+TEAM;Lions;Chicago;Coach B;20
+BASKETBALL;Los Angeles;Doe;Jhon;1990-01-01;30;250;100;50
+BASKETBALL;Chicago;Smith;James;1989-01-01;22;180;80;60
+FOOTBALL;Los Angeles;Johnson;Mike;1995-01-01;25;12;2
+FOOTBALL;Chicago;Smith;David;1993-06-01;20;8;3

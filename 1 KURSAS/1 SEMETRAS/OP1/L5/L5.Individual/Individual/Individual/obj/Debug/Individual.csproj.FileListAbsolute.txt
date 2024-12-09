@@ -1,0 +1,7 @@
+C:\Users\Mozzy\Desktop\L5.Individual\Individual\Individual\bin\Debug\Individual.exe.config
+C:\Users\Mozzy\Desktop\L5.Individual\Individual\Individual\bin\Debug\Individual.exe
+C:\Users\Mozzy\Desktop\L5.Individual\Individual\Individual\bin\Debug\Individual.pdb
+C:\Users\Mozzy\Desktop\L5.Individual\Individual\Individual\obj\Debug\Individual.csproj.AssemblyReference.cache
+C:\Users\Mozzy\Desktop\L5.Individual\Individual\Individual\obj\Debug\Individual.csproj.CoreCompileInputs.cache
+C:\Users\Mozzy\Desktop\L5.Individual\Individual\Individual\obj\Debug\Individual.exe
+C:\Users\Mozzy\Desktop\L5.Individual\Individual\Individual\obj\Debug\Individual.pdb
