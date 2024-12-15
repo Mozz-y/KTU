@@ -1,0 +1,9 @@
+﻿Jaunimo klubas
+OPEN;Linksmasis;I;Autorius4;Klausimas1;Atsakymas1;5
+TEST;Tema2;II;Autorius5;Klausimas2;Atsakymas2;10;Pasirinkimas1;Pasirinkimas2;Pasirinkimas3;Atsakymas2
+MUSIC;Tema3;III;Autorius6;Klausimas3;Atsakymas3;15
+OPEN;Tema4;II;Autorius4;Klausimas4;Atsakymas4;5
+TEST;Tema5;I;Autorius5;Klausimas5;Atsakymas5;10;PasirinkimasA;PasirinkimasB;PasirinkimasC;Atsakymas5
+MUSIC;Linksmasis;I;Autorius4;Klausimas6;Atsakymas6;10
+OPEN;Tema7;III;Autorius6;Klausimas7;Atsakymas7;20
+TEST;Linksmasis;II;Autorius5;Klausimas8;Atsakymas8;15;PasirinkimasX;PasirinkimasY;PasirinkimasZ;Atsakymas8
