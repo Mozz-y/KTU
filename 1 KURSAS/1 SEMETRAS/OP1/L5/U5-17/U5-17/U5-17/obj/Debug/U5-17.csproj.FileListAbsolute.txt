@@ -1,7 +1,0 @@
-C:\Users\Mozzy\Desktop\U5-17\U5-17\U5-17\bin\Debug\U5-17.exe.config
-C:\Users\Mozzy\Desktop\U5-17\U5-17\U5-17\bin\Debug\U5-17.exe
-C:\Users\Mozzy\Desktop\U5-17\U5-17\U5-17\bin\Debug\U5-17.pdb
-C:\Users\Mozzy\Desktop\U5-17\U5-17\U5-17\obj\Debug\U5-17.csproj.AssemblyReference.cache
-C:\Users\Mozzy\Desktop\U5-17\U5-17\U5-17\obj\Debug\U5-17.csproj.CoreCompileInputs.cache
-C:\Users\Mozzy\Desktop\U5-17\U5-17\U5-17\obj\Debug\U5-17.exe
-C:\Users\Mozzy\Desktop\U5-17\U5-17\U5-17\obj\Debug\U5-17.pdb
