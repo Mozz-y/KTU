@@ -1,0 +1,45 @@
+﻿
+Organizacija: Studentų sąjunga
+===================================================================================================================================================================================================
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tema            | Sudėtingumas | Autorius   | Klausimo tekstas                                   | Teisingas atsakymas       | Taškai     | Papildoma info                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Linksmasis      | I            | Autorius1  | Klausimas1                                         | Atsakymas1                | 5          | -
+Tema2           | II           | Autorius1  | Klausimas2                                         | Atsakymas2                | 10         | -
+Tema3           | III          | Autorius1  | Klausimas3                                         | Atsakymas3                | 15         | Pasirinkimas1, Pasirinkimas2, Pasirinkimas3, Atsakymas3
+Linksmasis      | I            | Autorius1  | Klausimas4                                         | Atsakymas4                | 10         | Org1.csv
+Tema5           | II           | Autorius1  | Klausimas5                                         | Atsakymas5                | 5          | -
+Tema6           | I            | Autorius1  | Klausimas6                                         | Atsakymas6                | 10         | PasirinkimasA, PasirinkimasB, PasirinkimasC, Atsakymas6
+Tema7           | II           | Autorius1  | Klausimas7                                         | Atsakymas7                | 20         | Org1.csv
+Linksmasis      | II           | Autorius1  | Klausimas8                                         | Atsakymas8                | 10         | -
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Organizacija: Jaunimo klubas
+===================================================================================================================================================================================================
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tema            | Sudėtingumas | Autorius   | Klausimo tekstas                                   | Teisingas atsakymas       | Taškai     | Papildoma info                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Linksmasis      | I            | Autorius1  | Klausimas1                                         | Atsakymas1                | 5          | -
+Tema2           | II           | Autorius1  | Klausimas2                                         | Atsakymas2                | 10         | Pasirinkimas1, Pasirinkimas2, Pasirinkimas3, Atsakymas2
+Tema3           | II           | Autorius1  | Klausimas3                                         | Atsakymas3                | 15         | Org2.csv
+Tema4           | II           | Autorius1  | Klausimas4                                         | Atsakymas4                | 5          | -
+Tema5           | I            | Autorius1  | Klausimas5                                         | Atsakymas5                | 10         | PasirinkimasA, PasirinkimasB, PasirinkimasC, Atsakymas5
+Linksmasis      | I            | Autorius1  | Klausimas6                                         | Atsakymas6                | 10         | Org2.csv
+Tema7           | III          | Autorius1  | Klausimas1                                         | Atsakymas7                | 20         | -
+Linksmasis      | II           | Autorius1  | Klausimas8                                         | Atsakymas8                | 15         | PasirinkimasX, PasirinkimasY, PasirinkimasZ, Atsakymas8
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Organizacija: Moksleivių taryba
+===================================================================================================================================================================================================
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tema            | Sudėtingumas | Autorius   | Klausimo tekstas                                   | Teisingas atsakymas       | Taškai     | Papildoma info                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Linksmasis      | II           | Autorius1  | Klausimas1                                         | Atsakymas1                | 10         | Org3.csv
+Tema2           | I            | Autorius1  | Klausimas2                                         | Atsakymas2                | 5          | -
+Tema3           | III          | Autorius1  | Klausimas3                                         | Atsakymas3                | 15         | Pasirinkimas1, Pasirinkimas2, Pasirinkimas3, Atsakymas3
+Tema4           | II           | Autorius1  | Klausimas4                                         | Atsakymas4                | 5          | -
+Tema5           | II           | Autorius1  | Klausimas5                                         | Atsakymas5                | 20         | Org3.csv
+Tema6           | I            | Autorius1  | Klausimas6                                         | Atsakymas6                | 10         | PasirinkimasA, PasirinkimasB, PasirinkimasC, Atsakymas6
+Linksmasis      | III          | Autorius1  | Klausimas7                                         | Atsakymas7                | 15         | -
+Tema8           | I            | Autorius1  | Klausimas8                                         | Atsakymas8                | 10         | Org3.csv
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
