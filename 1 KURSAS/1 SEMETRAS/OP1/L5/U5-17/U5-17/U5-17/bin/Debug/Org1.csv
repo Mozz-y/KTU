@@ -1,0 +1,9 @@
+﻿Studentų sąjunga
+OPEN;Linksmasis;I;Autorius1;Klausimas1;Atsakymas1;5
+OPEN;Tema2;II;Autorius1;Klausimas2;Atsakymas2;10
+TEST;Tema3;III;Autorius1;Klausimas3;Atsakymas3;15;Pasirinkimas1;Pasirinkimas2;Pasirinkimas3;Atsakymas3
+MUSIC;Linksmasis;I;Autorius1;Klausimas4;Atsakymas4;10
+OPEN;Tema5;II;Autorius2;Klausimas5;Atsakymas5;5
+TEST;Tema6;I;Autorius2;Klausimas6;Atsakymas6;10;PasirinkimasA;PasirinkimasB;PasirinkimasC;Atsakymas6
+MUSIC;Tema7;II;Autorius2;Klausimas7;Atsakymas7;20
+OPEN;Linksmasis;II;Autorius2;Klausimas8;Atsakymas8;10
